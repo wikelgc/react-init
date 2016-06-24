@@ -1,0 +1,26 @@
+{
+  "name": "react-init",
+  "version": "1.0.0",
+  "description": "react init ",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wikelgc/react-init.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wikelgc/react-init/issues"
+  },
+  "homepage": "https://github.com/wikelgc/react-init#readme",
+  "dependencies": {
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0"
+  }
+}
