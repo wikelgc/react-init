@@ -9,7 +9,7 @@
 	
    devServer: {
       inline: true,
-      port: 7788
+      port: 7790
    },
 	
    module: {
